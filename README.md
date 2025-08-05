@@ -26,13 +26,14 @@ O projeto **SimVerse** tem dois propósitos principais:
 
 ## 🧱 Estrutura do Projeto
 
+``` 
 SimVerse/
 ├── index.html # Estrutura principal da página
 ├── style.css # Estilos personalizados
 ├── scripts.js # Funcionalidades interativas
 ├── assets/ # Imagens, ícones, logos
 └── README.md # Documentação do projeto
-
+```
 
 ---
 
