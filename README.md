@@ -50,7 +50,7 @@ SimVerse/
 
 🔗 Acesse uma prévia do projeto:
 
-**[]((https://devcau.github.io/Sim-Verse/))**  
+**[((https://devcau.github.io/Sim-Verse/))]**  
 
 
 ---
