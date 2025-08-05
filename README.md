@@ -56,6 +56,8 @@ SimVerse/
 
 ---
 
-📄 Licença
-Este projeto está sob a licença MIT.
+## :memo: Licença
 
+Esse projeto está sob a licença MIT.
+
+---
